@@ -1,5 +1,15 @@
 # bloodBASE
-#### A centralised blood bank management system to support the smooth and efficient functioning of blood banks across cities and towns.
+
+<table>
+    <tr>
+        <td>
+            <img width="600" alt="image" src="https://github.com/user-attachments/assets/44cc6c40-2ff1-4938-b492-94320e7ec716" />
+        </td>
+        <td>
+            <p><h3><i>A centralised blood bank management system to support the smooth and efficient functioning of blood banks across cities and towns.</i></h3></p>
+        </td>
+    </tr>
+</table>
   
 
 ## Introduction
